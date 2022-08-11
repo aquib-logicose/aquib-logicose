@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aquib-logicose
+- 👋 Hi, I’m Aquib Ali
 - 👀 I’m interested in Development and Data Analytics
 - 🌱 I’m currently learning Kotlin and its structures 
 - 📫 Email at aquibali1122@gmail.com
